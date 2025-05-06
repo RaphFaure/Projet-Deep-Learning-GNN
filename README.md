@@ -1,4 +1,3 @@
 # Project-Deep-Learning-GNN
-Project for the DL course.
+Projet pour le cours de Deep Learning réalisé avec Maria Roman (maria.roman@student-cs.fr)
 
-Description du cours + contenu du projet (+note ?)
